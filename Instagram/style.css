@@ -1,0 +1,136 @@
+body {
+    background-color: #FAFAFA;
+    font-family: 'Segoe UI', Tahoma,  Verdana, sans-serif;
+}
+
+
+.main-wrapper {
+    background-color: #ffffff;
+    border: 1px solid #DBDBDB; 
+    padding: 30px;
+    height: 65vh;
+    margin-top: 10px;
+}
+.logo {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.logo img {
+    width: 200px;
+}
+form {
+    padding: 10px;
+}
+
+.input-fields input {
+    width: 90%;
+    background-color: #FAFAFA;
+    border: 1px solid #DBDBDB;
+    border-radius: 3px;
+    padding: 8px;
+
+}
+#password {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+/* .input-fields button {
+    width: 290px;
+    padding: 6px;
+    background-color: #0095F6;
+    border: none;
+    color: #ffffff;
+  
+    border-radius: 6px;
+   
+} */
+
+.input-fields button {
+    background-color: #0095f6;
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    padding: 6px;
+    width: 280px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.input-fields button:hover {
+    background-color: #0095f6;
+    color: white;
+}
+.input-fields input:focus {
+    outline: none;
+    border: 1px solid #333333;
+}
+.gray {
+    color: #8E8E8E;
+    padding: 10px;
+}
+.fb-link a {
+    color: #3B5998;
+    font-weight: 500;
+    text-decoration: none;
+
+}
+.forgot {
+    font-size: 12px;
+    text-decoration: none;
+    padding-top: 10px;
+    color: #3B5998;
+}
+.forgot:hover {
+    
+    text-decoration: none;
+    color: #3B5998;
+}
+
+.signup-container {
+    background-color: #ffffff;
+    border: 1px solid #DBDBDB;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.signup-container a {
+    color: #009FF8;
+    font-weight: 500;
+}
+.signup-container a:hover {
+    text-decoration: none;
+}
+.appstore-icon {
+   margin-left: 28px;
+}
+.appstore-icon img {
+    width: 120px;
+}
+.google-icon img {
+    width: 120px;
+}
+.google-icon {
+    margin-left: 70px;
+}
+.icons-p {
+    padding: 15px;
+}
+
+.ftn {
+    margin-top: 8%;
+    margin-bottom: 5%;
+    margin-left: 30px;
+}
+.right-txt {
+    margin-left: 50px;
+}
+
+.ftn a {
+    padding: 5px;
+    color: #005695;
+    font-weight: 500;
+}
+.ftn a:hover {
+    text-decoration: none;
+}
